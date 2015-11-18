@@ -19,7 +19,7 @@
   "main": "sticky-socket-cluster.js",
   "dependencies": {
     "http-proxy" : "*",
-	"debug" : "*"
+    "debug" : "*"
   },
   "keywords": [
 	"express",
